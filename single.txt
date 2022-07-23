@@ -1,0 +1,18 @@
+ Volume in drive C has no label.
+ Volume Serial Number is EC68-A8B4
+
+ Directory of C:\Users\SWAN\Desktop\Java
+
+07/23/2022  01:40 PM    <DIR>          .
+07/23/2022  01:40 PM    <DIR>          ..
+07/23/2022  12:47 PM               629 bye.txt
+07/23/2022  01:36 PM             1,043 FibonacciExample1.class
+07/23/2022  12:25 PM               356 FibonacciExample1.java
+07/23/2022  01:36 PM               901 Hello.class
+07/23/2022  10:20 AM               196 Hello.java
+07/23/2022  01:40 PM               728 love.txt
+07/23/2022  01:30 PM               519 Main.class
+07/23/2022  01:30 PM               249 Main.java
+07/23/2022  01:40 PM                 0 single.txt
+               9 File(s)          4,621 bytes
+               2 Dir(s)  11,656,364,032 bytes free
